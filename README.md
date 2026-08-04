@@ -7,8 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
