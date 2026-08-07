@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
 | [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
