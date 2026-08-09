@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
@@ -70,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
