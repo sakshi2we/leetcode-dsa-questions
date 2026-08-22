@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+| [0198-house-robber](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1386-cinema-seat-allocation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+| [0198-house-robber](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0198-house-robber) |
 | [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
