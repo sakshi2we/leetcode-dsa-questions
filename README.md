@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0063-unique-paths-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/2029-stone-game-ix) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -157,4 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
