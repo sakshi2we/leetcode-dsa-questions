@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1386-cinema-seat-allocation) |
@@ -184,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
