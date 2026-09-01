@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshi2we/leetcode-dsa-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
